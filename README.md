@@ -1,2 +1,3 @@
 # Multi-Modal-Traffic-Flow-Prediction-and-Congestion-Management-System
 System Using Reinforcement Learning and Graph Neural Networks
+Develop an advanced traffic management system that predicts traffic flow and congestion levels by integrating data from multiple sources (e.g., traffic cameras, GPS from public transport, weather data, and IoT sensors). It utilizes a reinforcement learning algorithm coupled with graph neural networks (GNN) to dynamically manage traffic signals and reduce congestion in real-time. • Innovation: Unlike traditional predictive models, this system models the traffic network as a graph, using GNNs to capture spatial relationships between different intersections and reinforcement learning for adaptive signal control.
